@@ -1,5 +1,10 @@
 # digital-health-hackathon
 
+## EDA - Exploratory Data Analysis
+
+1. 상관관계 분석
+2. 변수 분포 확인
+
 ## main code
 
 - 1-3 coxph_with_clinical_var_minmaxscaler.ipynb
