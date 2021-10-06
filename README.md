@@ -11,3 +11,11 @@
 2. 치료효능률 계산을 위한 가상 환자 데이터 생성 - make_virtual_data.ipynb
 3. 은닉층을 가진 CoxPH 딥러닝 모델 학습 - train_deep_coxph_model.ipynb
 4. 학습된 모델의 치료효능률 결과 분석 - analyse_result.ipynb (아직 생성하지 않음)
+
+## CSV Files
+
+0. dataset 폴더 - 대회 주최 측에서 제공한 원본 데이터
+1. all-in-one.csv - 주최 측에서 제공한 데이터를 하나로 만든 파일
+2. all-in-one-modified.csv - 유효하지 않은 값을 가진 환자 데이터를 제거한 파일 
+3. virtual-data.csv - 치료효능률 계산을 위해 만든 가상 환자 데이터를 담은 파일
+4. train results 폴더 - 학습시킨 모델의 결과를 저장한 
