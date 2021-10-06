@@ -21,17 +21,17 @@
 4. train results 폴더 - 학습시킨 모델의 결과를 저장한 
 
 ## Trained Networks
-### Layer 1
+### Number of Hidden Layer : 1
 - Node : 100 ~ 2000 까지 100단위로 20가지
 - Node Decreasing Rate : 1
 - Learning Rate : 0.0001, 0.001, 0.01, 0
 
-### Layer 2
+### Number of Hidden Layer : 2
 - Node : 100 ~ 2000 까지 100단위로 20가지
 - Node Decreasing Rate : 1, 1/2, 1/4
 - Learning Rate : 0.0001, 0.001, 0.01, 0
 
-### Layer 3
+### Number of Hidden Layer : 3
 - Node : 100 ~ 2000 까지 100단위로 20가지
 - Node Decreasing Rate : 1, 1/2, 1/4
 - Learning Rate : 0.0001, 0.001, 0.01, 0
