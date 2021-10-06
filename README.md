@@ -19,3 +19,19 @@
 2. all-in-one-modified.csv - 유효하지 않은 값을 가진 환자 데이터를 제거한 파일 
 3. virtual-data.csv - 치료효능률 계산을 위해 만든 가상 환자 데이터를 담은 파일
 4. train results 폴더 - 학습시킨 모델의 결과를 저장한 
+
+## Trained Networks
+### Layer 1
+- Node : 100 ~ 2000 까지 100단위로 20가지
+- Node Decreasing Rate : 1
+- Learning Rate : 0.0001, 0.001, 0.01, 0
+
+### Layer 2
+- Node : 100 ~ 2000 까지 100단위로 20가지
+- Node Decreasing Rate : 1, 1/2, 1/4
+- Learning Rate : 0.0001, 0.001, 0.01, 0
+
+### Layer 3
+- Node : 100 ~ 2000 까지 100단위로 20가지
+- Node Decreasing Rate : 1, 1/2, 1/4
+- Learning Rate : 0.0001, 0.001, 0.01, 0
