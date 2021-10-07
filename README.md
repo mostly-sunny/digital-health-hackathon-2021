@@ -5,7 +5,7 @@
 1. 상관관계 분석
 2. 변수 분포 확인
 
-## code
+## Code : Jupyer Notebook Files
 
 1. 유효하지 않은 환자 데이터 제거 - eliminate_invalid_data.ipynb
 2. 치료효능률 계산을 위한 가상 환자 데이터 생성 - make_virtual_data.ipynb
