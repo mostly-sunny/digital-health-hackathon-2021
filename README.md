@@ -1,9 +1,9 @@
 # digital-health-hackathon
 
 ## EDA - Exploratory Data Analysis
-
-1. 상관관계 분석
-2. 변수 분포 확인
+- 상관 분석
+1. 유전자 변이 & 임상변수, 임상변수 & 임상변수간 상관계수 계산
+2. 유전자 변이 & 유전자 변이간 자카드 계수 계산
 
 ## Code : Jupyter Notebook Files
 
