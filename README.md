@@ -19,6 +19,7 @@
 2. all-in-one-modified.csv - 유효하지 않은 값을 가진 환자 데이터를 제거한 파일 
 3. virtual-data.csv - 치료효능률 계산을 위해 만든 가상 환자 데이터를 담은 파일
 4. train results 폴더 - 학습시킨 모델의 결과를 저장한 csv파일
+  - ratio_123_100_4000.csv : 학습시킨 모델들의 모든 결과를 하나로 통합한 파일
 
 ## Trained Networks
 
