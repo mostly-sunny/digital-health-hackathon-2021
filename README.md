@@ -11,6 +11,8 @@
 2. 치료효능률 계산을 위한 가상 환자 데이터 생성 - make_virtual_data.ipynb
 3. 은닉층을 가진 CoxPH 딥러닝 모델 학습 - train_deep_coxph_model.ipynb
 4. 학습된 모델의 치료효능률 결과 분석 - analyze_result.ipynb
+  - c-index가 0.7 이상인 모델들의 치료효능률 평균을 계산
+  - 치료효능률의 평균이 작은 순 유전자 후보 10개 선택
 
 ## CSV Files
 
